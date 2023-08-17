@@ -1,4 +1,6 @@
 # DVHMA
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2FDVHMA.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2FDVHMA?ref=badge_shield)
+
 
 Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for
 Android) that *intentionally* contains vulnerabilities. Its purpose is
@@ -66,6 +68,9 @@ The core developers of DVHMA are:
 This project is under the Apache 2.0 License. 
 
 SPDX-License-Identifier: Apache-2.0
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2FDVHMA.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2FDVHMA?ref=badge_large)
 
 ## Master Repository
 
